@@ -19,5 +19,4 @@ SentinelOne (Static ML) - Static AI - Suspicious PE → Uses static AI analysis,
 If you converted a Python script to .exe using PyInstaller, these detections might be false positives because:
 ✅ PyInstaller obfuscates the code, making it look suspicious.
 ✅ The generated file includes a bundled Python interpreter.
-✅ Some malware authors use PyInstaller, making security tools more aggressive.
 ![image](https://github.com/user-attachments/assets/99376700-a7f4-45a0-b852-5dd8c535f33b)
